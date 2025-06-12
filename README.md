@@ -1,4 +1,4 @@
-## Hi 👋 Here is see my project 🤝
+## Hi 👋 Here  see my project 🤝
 <h1 align="center">Hi 👋, I'm ANURAG SAINI</h1>
 <h3 align="center">A passionate AI/ML learner from India</h3>
 
