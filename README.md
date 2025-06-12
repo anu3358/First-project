@@ -1,3 +1,7 @@
+## Hi 👋 Here is see my project 🤝
+
+Welcome to my GitHub repository! Feel free to explore, contribute, or leave feedback.
+
 # First-project
 First project
 ### Parameter Optimization
